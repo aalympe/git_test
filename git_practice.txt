@@ -2,7 +2,7 @@ This is also to practice git.
 I will be re-using examples found on a video tutorial from Youtube. 
 
 Add (x+y)
-pass
+x+y
 
 Substract (x-y)
 pass
