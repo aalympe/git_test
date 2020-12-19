@@ -8,7 +8,7 @@ Substract (x-y)
 x-y
 
 Multiply (x*y)
-pass
+x*y
 
 Divide (x/y)
 pass
