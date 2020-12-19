@@ -1,0 +1,14 @@
+This is also to practice git. 
+I will be re-using examples found on a video tutorial from Youtube. 
+
+Add (x+y)
+pass
+
+Substract (x-y)
+pass
+
+Multiply (x*y)
+pass
+
+Divide (x/y)
+pass
